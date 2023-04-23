@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora de números binarios, decimales y hexadecimales, diseñado para uso movil
+Calculadora de números binarios, decimales y hexadecimales, diseñado para uso movil, usando .net
